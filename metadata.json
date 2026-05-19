@@ -1,0 +1,6 @@
+{
+  "name": "EthosLabs",
+  "description": "A design engineering studio building high-fidelity digital products and websites for AI and future-tech companies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

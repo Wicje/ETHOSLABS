@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: var(--font-sans);
+  --font-display: var(--font-display);
+  
+  --color-brand-red: #7A0012;
+  --color-brand-red-dark: #4A000A;
+  --color-brand-red-light: #9A162B;
+}
+
+@layer base {
+  body {
+    @apply font-sans;
+  }
+}
